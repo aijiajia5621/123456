@@ -1,4 +1,4 @@
-`1  `name: aijiajia
+name: aijiajia
 on:
   workflow_dispatch:
   schedule: 
